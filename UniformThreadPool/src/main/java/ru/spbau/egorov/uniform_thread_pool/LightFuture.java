@@ -1,4 +1,4 @@
-package ru.spbau.egorov.hw_1;
+package ru.spbau.egorov.uniform_thread_pool;
 
 
 import java.util.function.Function;

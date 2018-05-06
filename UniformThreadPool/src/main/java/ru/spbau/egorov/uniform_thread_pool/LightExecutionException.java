@@ -1,4 +1,4 @@
-package ru.spbau.egorov.hw_1;
+package ru.spbau.egorov.uniform_thread_pool;
 
 /**
  * This exception is thrown when the supplier throws runtime exception during evaluation.
